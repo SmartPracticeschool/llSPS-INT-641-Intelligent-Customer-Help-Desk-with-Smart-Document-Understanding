@@ -23,4 +23,6 @@ Node-Red acts as a link between all the services utilized in this project and cr
 3. If the customer asks a technical question, it will be passed to Cloud Functions action.
 4. This action will further pass onto to Watson Discovery and return with appropriate solution.
 
+**Project demonstration video link**: https://youtu.be/ifuZ09oLvcw
+
 **UI Link for project**: https://node-red-gukxl.eu-gb.mybluemix.net/ui
